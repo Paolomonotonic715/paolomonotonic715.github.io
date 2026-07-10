@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Researcher in the field of AI for Science"
   location         : "Shenzhen"
-  employer         : "SIAT"
+  employer         : #"SIAT"
   uri              : # URL
   email            : "wq.fang@siat.ac.cn" 
 
