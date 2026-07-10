@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in theoretical physics, Institute of Physics, Chinese Academy of Sciences, 2012-2017
-* B.S. in applied physics, Zheiiang University of Technology, 2008-2012
+* B.S. in applied physics, Zhejiang University of Technology, 2008-2012
 
 Work experience
 ======
