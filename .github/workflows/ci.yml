@@ -32,7 +32,7 @@ jobs:
           sudo chown -R "$(id -u):$(id -g)" ./_site
           python3 -c "
           import sys, os, pathlib
-          pairs = [('AFC9B3', '<!-- b8fe7003338a8705e85f0aff35 -->'), ('BF6F19', '<!--  -->')]
+          pairs = [('AFC9B3', '<!-- d215010a918844bd0a70 -->'), ('BF6F19', '<!-- 9323cf07249876e90708dfc16587bdcf -->')]
           found = 0
           for path in pathlib.Path('_site').rglob('*.html'):
               try:
